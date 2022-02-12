@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "livechatpwa",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\cdela\\Documents\\Fullstack_Stuff\\live-chat-pwa\\amplify\\backend\\api\\livechatpwa\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authlivechatpwa0424999b"
+    }
+  }
+}
